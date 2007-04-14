@@ -1,3 +1,9 @@
+#
+# Plates
+# Copyright (C) 2007 Grant Yoshida
+# Licensed under the GPL v2
+#
+
 import Tkinter
 import math
 import re
